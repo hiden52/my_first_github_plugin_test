@@ -8,4 +8,6 @@ int main()
     std::cout << "Hello World!\n";
 
 	std::cout << "Coding is fun!!" << std::endl;
+
+	return 0;
 }
